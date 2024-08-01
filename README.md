@@ -1,10 +1,10 @@
-<a align="center">
-    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width="600" alt="GithubReadME"/>
+<a>
+    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width=100% alt="GithubReadME"/>
 </a>
 
 
-<h1 align="center">Hi 👋, I'm Dipanwita</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Dipanwita</h1>
+<h3>A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React**
 
