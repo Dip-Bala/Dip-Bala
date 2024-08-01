@@ -1,4 +1,4 @@
-<a align="right">
+<a align="center">
     <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width="600" alt="GithubReadME"/>
 </a>
 
