@@ -1,5 +1,4 @@
-
-<img alt="coding" width="400" aligin="center" src=""> ![GithubReadME](https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2)
+<a align="center"> ![GithubReadME](https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2)<a/>
 
 <h1 align="center">Hi 👋, I'm Dipanwita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
