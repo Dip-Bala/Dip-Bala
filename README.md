@@ -1,4 +1,4 @@
-<video witdth="400" align="right"> ![GithubReadME](https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2)<video/>
+<a witdth="400" align="right"> ![GithubReadME](https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2)<a/>
 
 <h1 align="center">Hi 👋, I'm Dipanwita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
