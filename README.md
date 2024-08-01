@@ -1,5 +1,5 @@
 
-<img alt="coding" width="400" aligin="center" src="https://drive.google.com/file/d/1V35mugfeaouYAOQqhKgRBU0c5YTuPag7/view"> 
+<img alt="coding" width="400" aligin="center" src="/Users/dipanwitabala/Downloads/GithubReadME.gif"> 
 <h1 align="center">Hi 👋, I'm Dipanwita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
