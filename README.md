@@ -1,5 +1,5 @@
 
-<img alt="coding" width="400" aligin="center" src="https://pin.it/5qc9GJS6P](https://i.pinimg.com/originals/44/14/c9/4414c9246815b601e5bf47fe4f82a1c6.gif"> 
+<img alt="coding" width="400" aligin="center" src="[[https://pin.it/5qc9GJS6P](https://i.pinimg.com/originals/44/14/c9/4414c9246815b601e5bf47fe4f82a1c6.gif](https://drive.google.com/file/d/1V35mugfeaouYAOQqhKgRBU0c5YTuPag7/view?usp=sharing)](https://drive.google.com/file/d/1V35mugfeaouYAOQqhKgRBU0c5YTuPag7/view?usp=sharing)"> 
 <h1 align="center">Hi 👋, I'm Dipanwita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
