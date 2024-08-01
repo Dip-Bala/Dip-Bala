@@ -1,5 +1,5 @@
 <a>
-    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width=100% alt="GithubReadME"/>
+    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width=100% height=50% alt="GithubReadME"/>
 </a>
 
 
