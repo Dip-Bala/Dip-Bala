@@ -1,3 +1,5 @@
+
+<img src="https://pin.it/5qc9GJS6P"> 
 <h1 align="center">Hi 👋, I'm Dipanwita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -35,8 +37,8 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dip-bala&show_icons=true&theme=transparent&locale=en&layout=compact" alt="dip-bala" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dip-bala&show_icons=true&theme=transparent&locale=en&layout=compact" alt="dip-bala" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dip-bala&show_icons=true&theme=transparent&locale=en" alt="dip-bala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dip-bala&show_icons=true&theme=transparent&locale=en" alt="dip-bala" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dip-bala&theme=transparent" alt="dip-bala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dip-bala&theme=transparent" alt="dip-bala" /></p>
