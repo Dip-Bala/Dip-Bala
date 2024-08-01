@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Dipanwita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dip-Bala&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Dip-Bala/github-readme-stats)
