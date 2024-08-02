@@ -1,8 +1,3 @@
-<a>
-    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width=100% height=50% alt="GithubReadME"/>
-</a>
-
-
 <h1>Hi 👋, I'm Dipanwita</h1>
 <h3>A passionate frontend developer from India</h3>
 
@@ -13,6 +8,11 @@
 - 📫 How to reach me **dipanwita.bala.02@gmail.com**
 
 - ⚡ Fun fact **I am a clean freak**
+
+<a>
+    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width=100% height=50% alt="GithubReadME"/>
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
