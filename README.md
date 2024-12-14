@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Dipanwita</h1>
+<h1>Hi, I'm Dipanwita</h1>
 <h3>A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React**
