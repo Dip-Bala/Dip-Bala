@@ -39,7 +39,4 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=dip-bala&show_icons=true&theme=transparent&locale=en" alt="GitHub Stats" />
   </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dip-bala&theme=transparent" alt="GitHub Streak" />
-  </p>
 </div>
