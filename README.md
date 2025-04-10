@@ -3,8 +3,8 @@
   <h3>A passionate software developer</h3>
 
   <p>
-    🌱 I’m currently building around <strong>AI</strong> and integrating it into my projects <br/>
-    💬 Ask me about <strong>MERN Stack, Java, and DS & Algo</strong> <br/>
+    🌱 I’m currently learning <strong>React</strong><br/>
+    💬 Ask me about <strong>Java, JavaScript, and DS & Algo</strong> <br/>
     📫 How to reach me <strong>dipanwita.bala.02@gmail.com</strong> <br/>
     ⚡ Fun fact <strong>I am a coffee monster</strong>
   </p>
