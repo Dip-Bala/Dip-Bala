@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Dipanwita</h1>
-  <h3>A passionate software developer</h3>
+  <h3>A software developer</h3>
 
   <p>
-    🌱 I’m currently learning <strong>React</strong><br/>
+    🌱 I’m currently learning <strong>MongoDB</strong><br/>
     💬 Ask me about <strong>Java, JavaScript, and DS & Algo</strong> <br/>
     📫 How to reach me <strong>dipanwita.bala.02@gmail.com</strong> <br/>
     ⚡ Fun fact <strong>I am a coffee monster</strong>
