@@ -3,8 +3,8 @@
   <h3>A software developer</h3>
 
   <p>
-    🌱 I’m currently learning <strong>MongoDB</strong><br/>
-    💬 Ask me about <strong>Java, JavaScript, and DS & Algo</strong> <br/>
+    🌱 I’m currently building projects in MERN stack.<br/>
+    💬 Ask me about <strong>MERN</strong>.<br/>
     📫 How to reach me <strong>dipanwita.bala.02@gmail.com</strong> <br/>
     ⚡ Fun fact <strong>I am a coffee monster</strong>
   </p>
