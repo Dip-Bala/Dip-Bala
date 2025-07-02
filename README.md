@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" >
   <h1>Hi, I'm Dipanwita</h1>
   <h3>A software developer</h3>
 
@@ -33,10 +33,9 @@
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
   </p>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dip-bala&show_icons=true&theme=transparent&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dip-bala&show_icons=true&theme=transparent&locale=en" alt="GitHub Stats" />
-  </p>
+  <div style={display: flex}>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dip-Bala&theme=nightowl&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Bala&theme=nightowl&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Bala&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="GitHub Languages" />
+  </div>
 </div>
