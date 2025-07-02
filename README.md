@@ -10,7 +10,7 @@
   </p>
 
   <a>
-    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width="70%" height="auto" alt="GithubReadME"/>
+    <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width="60%" height="auto" alt="GithubReadME"/>
   </a>
 
   <h3>Connect with me:</h3>
