@@ -6,17 +6,13 @@
   <p style="color:#8b949e;"><em>I craft sleek, engaging web applications that someone will find useful.</em></p>
   <p style="color:#8b949e;">🧠 Currently building <strong>Mindly</strong> – your second brain app.</p>
   <p style="color:#8b949e;">🤝 Collaborate with me: <strong>dipanwita.bala.02@gmail.com</strong></p>
-
-  <img src="https://github.com/user-attachments/assets/714e136c-1bf2-4d9e-9836-84cdcaa888b2" width="60%" height="auto" alt="Project preview" />
-
+<hr>
   <h3 style="color:#e6edf3;">🔗 Connect with me:</h3>
   <p>
     <a href="https://www.leetcode.com/d_bala" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
     <a href="https://twitter.com/ni8fa11" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/dipanwita-bala-21999c/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://instagram.com/bala_dipanwita" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  </p>
-
+<hr>
   <h3 style="color:#e6edf3;">🛠️ Languages & Tools:</h3>
   <p>
     <!-- Core Stack -->
