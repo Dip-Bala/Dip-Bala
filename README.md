@@ -7,12 +7,6 @@
   <p style="color:#8b949e;">🧠 Currently building <strong>Mindly</strong> – your second brain app.</p>
   <p style="color:#8b949e;">🤝 Collaborate with me: <strong>dipanwita.bala.02@gmail.com</strong></p>
 <hr>
-  <h3 style="color:#e6edf3;">🔗 Connect with me:</h3>
-  <p>
-    <a href="https://www.leetcode.com/d_bala" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-    <a href="https://twitter.com/ni8fa11" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/dipanwita-bala-21999c/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<hr>
   <h3 style="color:#e6edf3;">🛠️ Languages & Tools:</h3>
   <p>
     <!-- Core Stack -->
@@ -32,12 +26,19 @@
     <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
     <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/></a>
   </p>
-
+<hr>
   <h3 style="color:#e6edf3;">📊 GitHub Stats</h3>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Dip-Bala&theme=nightowl&show_icons=true&hide_border=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Bala&theme=nightowl&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Bala&theme=nightowl&show_icons=true&hide_border=true&layout=compact" />
   </div>
-
+  <hr>
+  <h3 style="color:#e6edf3;">🔗 Connect with me:</h3>
+  <p>
+    <a href="https://www.leetcode.com/d_bala" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+    <a href="https://twitter.com/ni8fa11" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/dipanwita-bala-21999c/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  </p>
+<hr>
 </div>
